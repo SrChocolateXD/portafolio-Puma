@@ -460,6 +460,9 @@ span{
 .habilidades-columna:nth-child(1) .habilidades-contenido .progreso:nth-child(4) .barra span{
     width: 60%;
 }
+.habilidades-columna:nth-child(1) .habilidades-contenido .progreso:nth-child(5) .barra span{
+    width: 80%;
+}
 .habilidades-columna:nth-child(2) .habilidades-contenido .progreso:nth-child(1) .barra span{
     width: 70%;
 }
@@ -471,6 +474,9 @@ span{
 }
 .habilidades-columna:nth-child(2) .habilidades-contenido .progreso:nth-child(4) .barra span{
     width: 80%;
+}
+.habilidades-columna:nth-child(2) .habilidades-contenido .progreso:nth-child(5) .barra span{
+    width: 90%;
 }
 .contacto{
     min-height: auto;
