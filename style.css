@@ -744,6 +744,7 @@ section:nth-child(odd) .animate.scroll{
         text-align: center;
     }
 }
+
 @media (max-width: 371px){
     .home{
         justify-content: center;
@@ -757,6 +758,7 @@ section:nth-child(odd) .animate.scroll{
     .contenedor-home h1{
         font-size: 5rem
     }
+    
 }
 
 /* trabajos de animacion io parametros */
@@ -867,4 +869,13 @@ section:nth-child(odd) .animate.scroll{
     .slider{
         height: 400px;
     }
+}
+@media screen and (max-width: 430px){
+    .slider{
+        height: 300px;
+    }
+    dialog#galeria{
+        margin: 40% 2%;
+    }
+
 }
